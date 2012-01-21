@@ -1,4 +1,4 @@
-package me.BurtThaMan.BlockChanger;
+package com.github.BurtThaMan;
 
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
